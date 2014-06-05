@@ -1,0 +1,12 @@
+{
+    "name": "dwoodard/kaltura",
+    "authors": [
+        {
+            "name": "Dustin Woodard",
+            "email": "dustinwoodard@weber.edu"
+        }
+    ],
+    "require": {
+
+    }
+}
